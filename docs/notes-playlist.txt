@@ -1,0 +1,21 @@
+Aula 1.2 Modelos de dados.
+	Modelo Físico, mais baixo nível, influência na performance.
+	Modelo Lógico, é a descrição lógica de como a DB vai enxergar os dados.
+	Modelo conceitual, é a descrição generica em mais alto nível que descreve como os dados se relacionam independente do tipo de DB.
+
+Aula 2 Abordagem Entidade Relacionamento.
+	Temos diversas entidades que são os principais termos aonde se aplicam a ação, em resumo, seriam a categoria de  sujeito sobre o qual se age.	
+Aula 2.2 Relacionamento
+	Representados por um relacionamento que é representado por um losangulo contendo uma descrição em uma palavra sobre o tipo de relação.
+	Autorelacionamentos ocorrem quando uma mesma entidade se associa a ela mesma por meio de mais de uma ocorrencia, nesse caso a ocorrencia
+	atua como a relaçao de um sujeito dentro da categoria de sujeitos Entidade.
+Aula 2.3 Cardinalidade de relacionamento.Parou em 10:16:	
+	Cardinalidade é a relação de quanto uma entidade pode se relacionar com outra.
+		Podem ser valores minimo e máximo, ou podem ser um valor indeterminado, como n.
+		Cardinalidade máxima é representada pelo valor simples ao lado da entidade.
+	Relacionamento binário:
+		Relacionamento de um para um, 1: 1
+		Relacionamento um para muitos, 1: n.
+		Relacionamento muitos para muitos n: n.
+	
+	
