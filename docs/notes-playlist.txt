@@ -12,10 +12,12 @@ Aula 2.2 Relacionamento
 Aula 2.3 Cardinalidade de relacionamento.Parou em 10:16:	
 	Cardinalidade é a relação de quanto uma entidade pode se relacionar com outra.
 		Podem ser valores minimo e máximo, ou podem ser um valor indeterminado, como n.
-		Cardinalidade máxima é representada pelo valor simples ao lado da entidade.
+		Cardinalidade máxima, é representada pelo valor simples ao lado da entidade.
+		Cardinalidade mínima, é representada similar a máxima, porem no formato (min, max). Ela é opcional.
 	Relacionamento binário:
 		Relacionamento de um para um, 1: 1
 		Relacionamento um para muitos, 1: n.
 		Relacionamento muitos para muitos n: n.
-	
+	Relacionamento Ternario(Pesquisar mais)
+		3 variáveis.
 	
